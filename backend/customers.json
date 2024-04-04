@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2",
+    "productName": "Laptop",
+    "customerName": "Rahul Singh",
+    "date": "2024-04-13",
+    "amount": "500",
+    "paymentMode": "Cash on Delivery",
+    "status": "Delivered"
+  },
+  {
+    "id": "3",
+    "productName": "Bag",
+    "customerName": "Zaad",
+    "date": "2024-04-02",
+    "amount": "438",
+    "paymentMode": "Cash on Delivery",
+    "status": "Canceled"
+  },
+  {
+    "id": "1",
+    "productName": "Mouse",
+    "customerName": "Amit",
+    "date": "2024-04-03",
+    "amount": "4213",
+    "paymentMode": "Cash on Delivery",
+    "status": "Process"
+  },
+  {
+    "id": "4",
+    "productName": "Clock",
+    "customerName": "paul",
+    "date": "2024-04-05",
+    "amount": "313",
+    "paymentMode": "Cash on Delivery",
+    "status": "Canceled"
+  },
+  {
+    "id": "5",
+    "productName": "Monitor",
+    "customerName": "Joe",
+    "date": "2024-04-02",
+    "amount": "2312",
+    "paymentMode": "Bank Transfer",
+    "status": "Delivered"
+  }
+]
