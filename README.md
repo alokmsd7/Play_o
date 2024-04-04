@@ -3,3 +3,5 @@ Along with that add customer form with edit and delete function.
 Used Api in backend thats store data in JSON
 Pagination list is also there.
 It is live at https://playodash.netlify.app/
+
+Validation of form is there along with we can search user as search implementation is also there.
